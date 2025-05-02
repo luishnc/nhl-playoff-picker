@@ -136,6 +136,14 @@ function App() {
   	<h1 className="title">🏒 NHL Playoff Picker</h1>
 	</div>
 
+      <div className="rules">
+  <strong>Scoring Rules:</strong><br />
+  ✔️ 2 points if you pick the winner and they had home ice<br />
+  ✔️ 3 points if you pick the winner and they were the underdog<br />
+  ✔️ +1 bonus point for exact number of games<br />
+  ✔️ 5 bonus points for correctly predicting the champion
+</div>
+
       <div style={{ marginBottom: 20 }}>
         {roundsAvailable.map((r) => (
           <button
