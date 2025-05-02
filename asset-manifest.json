@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nhl-playoff-picker/static/css/main.9c450362.css",
+    "main.js": "/nhl-playoff-picker/static/js/main.9c0cf4bd.js",
+    "index.html": "/nhl-playoff-picker/index.html",
+    "main.9c450362.css.map": "/nhl-playoff-picker/static/css/main.9c450362.css.map",
+    "main.9c0cf4bd.js.map": "/nhl-playoff-picker/static/js/main.9c0cf4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c450362.css",
+    "static/js/main.9c0cf4bd.js"
+  ]
+}
